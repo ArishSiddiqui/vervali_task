@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: OtpPage(mobNum: '7700036298'),
+      home: LoginPage(),
     );
   }
 }
